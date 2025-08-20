@@ -1,4 +1,5 @@
-*{
+/* Zerando as configurações de CSS e iniciando uma Base */
+* {
   box-sizing: border-box;
 }
 
