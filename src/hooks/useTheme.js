@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { ThemeContext } from "../contexts/ThemeContextInstance.js";
+import { ThemeContext } from "../context/ThemeContestinstance.js";
 
 export function useTheme() {
   const context = useContext(ThemeContext); // Obtém o contexto do ThemeContext
